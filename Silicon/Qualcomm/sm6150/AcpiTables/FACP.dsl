@@ -8,8 +8,8 @@
 [01Ch 0028   4]              Asl Compiler ID : "INTL"
 [020h 0032   4]        Asl Compiler Revision : 20200925
 
-[024h 0036   4]                 FACS Address : 00000000
-[028h 0040   4]                 DSDT Address : 00000000
+[024h 0036   4]                 FACS Address : 9DDC0000
+[028h 0040   4]                 DSDT Address : 9DD00000
 [02Ch 0044   1]                        Model : 00
 [02Dh 0045   1]                   PM Profile : 08 [Tablet]
 [02Eh 0046   2]                SCI Interrupt : 0000

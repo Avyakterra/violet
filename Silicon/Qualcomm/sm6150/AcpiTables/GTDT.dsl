@@ -42,19 +42,19 @@
 [060h 0096   1]                Subtable Type : 00 [Generic Timer Block]
 [061h 0097   2]                       Length : 003C
 [063h 0099   1]                     Reserved : 00
-[064h 0100   8]                Block Address : 000000000F120000
+[064h 0100   8]                Block Address : 0000000017C20000
 [06Ch 0108   4]                  Timer Count : 00000001
 [070h 0112   4]                 Timer Offset : 00000014
 
 [074h 0116   1]                 Frame Number : 00
 [075h 0117   3]                     Reserved : 000000
-[078h 0120   8]                 Base Address : 000000000F121000
-[080h 0128   8]             EL0 Base Address : 000000000F122000
+[078h 0120   8]                 Base Address : 0000000017C21000
+[080h 0128   8]             EL0 Base Address : 0000000017C22000
 [088h 0136   4]              Timer Interrupt : 00000028
 [08Ch 0140   4]  Timer Flags (decoded below) : 00000000
                                 Trigger Mode : 0
                                     Polarity : 0
-[090h 0144   4]      Virtual Timer Interrupt : 00000027
+[090h 0144   4]      Virtual Timer Interrupt : 00000026
 [094h 0148   4] Virtual Timer Flags (decoded below) : 00000000
                                 Trigger Mode : 0
                                     Polarity : 0

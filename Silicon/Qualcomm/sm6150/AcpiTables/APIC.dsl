@@ -22,7 +22,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [03Ch 0060 004h]    Parking Protocol Version : 00000000
-[040h 0064 004h]       Performance Interrupt : 00000016
+[040h 0064 004h]       Performance Interrupt : 00000015
 [044h 0068 008h]              Parked Address : 0000000000000000
 [04Ch 0076 008h]                Base Address : 0000000000000000
 [054h 0084 008h]    Virtual GIC Base Address : 0000000000000000
@@ -45,7 +45,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [08Eh 0142 004h]    Parking Protocol Version : 00000000
-[092h 0146 004h]       Performance Interrupt : 00000016
+[092h 0146 004h]       Performance Interrupt : 00000015
 [096h 0150 008h]              Parked Address : 0000000000000000
 [09Eh 0158 008h]                Base Address : 0000000000000000
 [0A6h 0166 008h]    Virtual GIC Base Address : 0000000000000000
@@ -68,7 +68,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [0E0h 0224 004h]    Parking Protocol Version : 00000000
-[0E4h 0228 004h]       Performance Interrupt : 00000016
+[0E4h 0228 004h]       Performance Interrupt : 00000015
 [0E8h 0232 008h]              Parked Address : 0000000000000000
 [0F0h 0240 008h]                Base Address : 0000000000000000
 [0F8h 0248 008h]    Virtual GIC Base Address : 0000000000000000
@@ -91,7 +91,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [132h 0306 004h]    Parking Protocol Version : 00000000
-[136h 0310 004h]       Performance Interrupt : 00000016
+[136h 0310 004h]       Performance Interrupt : 00000015
 [13Ah 0314 008h]              Parked Address : 0000000000000000
 [142h 0322 008h]                Base Address : 0000000000000000
 [14Ah 0330 008h]    Virtual GIC Base Address : 0000000000000000
@@ -114,7 +114,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [184h 0388 004h]    Parking Protocol Version : 00000000
-[188h 0392 004h]       Performance Interrupt : 00000016
+[188h 0392 004h]       Performance Interrupt : 00000015
 [18Ch 0396 008h]              Parked Address : 0000000000000000
 [194h 0404 008h]                Base Address : 0000000000000000
 [19Ch 0412 008h]    Virtual GIC Base Address : 0000000000000000
@@ -137,7 +137,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [1D6h 0470 004h]    Parking Protocol Version : 00000000
-[1DAh 0474 004h]       Performance Interrupt : 00000016
+[1DAh 0474 004h]       Performance Interrupt : 00000015
 [1DEh 0478 008h]              Parked Address : 0000000000000000
 [1E6h 0486 008h]                Base Address : 0000000000000000
 [1EEh 0494 008h]    Virtual GIC Base Address : 0000000000000000
@@ -160,7 +160,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [228h 0552 004h]    Parking Protocol Version : 00000000
-[22Ch 0556 004h]       Performance Interrupt : 00000016
+[22Ch 0556 004h]       Performance Interrupt : 00000015
 [230h 0560 008h]              Parked Address : 0000000000000000
 [238h 0568 008h]                Base Address : 0000000000000000
 [240h 0576 008h]    Virtual GIC Base Address : 0000000000000000
@@ -183,7 +183,7 @@
           Performance Interrupt Trigger Mode : 0
           Virtual GIC Interrupt Trigger Mode : 0
 [27Ah 0634 004h]    Parking Protocol Version : 00000000
-[27Eh 0638 004h]       Performance Interrupt : 00000016
+[27Eh 0638 004h]       Performance Interrupt : 00000015
 [282h 0642 008h]              Parked Address : 0000000000000000
 [28Ah 0650 008h]                Base Address : 0000000000000000
 [292h 0658 008h]    Virtual GIC Base Address : 0000000000000000
@@ -200,7 +200,7 @@
 [2BDh 0701 001h]                      Length : 18
 [2BEh 0702 002h]                    Reserved : 0000
 [2C0h 0704 004h]       Local GIC Hardware ID : 00000000
-[2C4h 0708 008h]                Base Address : 000000000F200000
+[2C4h 0708 008h]                Base Address : 0000000017a00000
 [2CCh 0716 004h]              Interrupt Base : 00000000
 [2D0h 0720 001h]                     Version : 03
 [2D1h 0721 003h]                    Reserved : 000000
@@ -208,5 +208,5 @@
 [2D4h 0724 001h]               Subtable Type : 0E [Generic Interrupt Redistributor]
 [2D5h 0725 001h]                      Length : 10
 [2D6h 0726 002h]                    Reserved : 0000
-[2D8h 0728 008h]                Base Address : 000000000F300000
+[2D8h 0728 008h]                Base Address : 0000000017a60000
 [2E0h 0736 004h]                      Length : 00100000
