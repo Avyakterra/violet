@@ -22,7 +22,7 @@ jobs:
       max-parallel: 8
       matrix:
         device:
-          - sm6150
+          - violet
           # sm8150
           # - mh2lm
           # - nabu
